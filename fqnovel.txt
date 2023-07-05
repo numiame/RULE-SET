@@ -10,18 +10,18 @@ URL-REGEX,ad-sign.*
 URL-REGEX,fqnovelvod.*
 URL-REGEX,mgsdk-sign.*
 DOMAIN-SUFFIX,snssdk.com
-# URL-REGEX,*-normal-lf.zijieapi.com
-# URL-REGEX,*-applog-hl.fqnovel.com
-# URL-REGEX,*-hl.zijieapi.com
-# URL-REGEX,*-bjlgy.zijiezpi.com
-# URL-REGEX,*-novel.byteimg.com
-# URL-REGEX,*-sinfonline*.fqnovel.com
-URL-REGEX,-normal-lf.zijieapi.*
-URL-REGEX,-applog-hl.fqnovel.*
-URL-REGEX,-hl.zijieapi.*
-URL-REGEX,-bjlgy.zijiezpi*
-URL-REGEX,-novel.byteimg.*
-URL-REGEX,-sinfonline*.fqnovel.*
+DOMAIN,p3-novel.byteimg.com
+DOMAIN,api5-normal-hl.fqnovel.com
+DOMAIN,api3-normal-sinfonlineb.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,mon11-misc-hl.fqnovel.com
+DOMAIN,frontier100-toutiao-hl.fqnovel.com
+DOMAIN,api5-normal-sinfonlineb.fqnovel.com
+DOMAIN,api3-normal-sinfonlineb.fqnovel.com
+DOMAIN,polaris3-normal-hl.zijieapi.com
+DOMAIN,saveu5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,dig.zjurl.cn
 DOMAIN,qc.bsccdn.net
 DOMAIN,is.snssdk.com
