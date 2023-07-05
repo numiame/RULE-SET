@@ -15,12 +15,12 @@ DOMAIN-SUFFIX,snssdk.com
 # URL-REGEX,*-bjlgy.zijiezpi.com
 # URL-REGEX,*-novel.byteimg.com
 # URL-REGEX,*-sinfonline*.fqnovel.com
-URL-REGEX,\-normal\-lf.zijieapi.*
-URL-REGEX,\-applog\-hl.fqnovel.*
-URL-REGEX,\-hl.zijieapi.*
-URL-REGEX,\-bjlgy.zijiezpi*
-URL-REGEX,\-novel.byteimg.*
-URL-REGEX,\-sinfonline*.fqnovel.*
+URL-REGEX,-normal-lf.zijieapi.*
+URL-REGEX,-applog-hl.fqnovel.*
+URL-REGEX,-hl.zijieapi.*
+URL-REGEX,-bjlgy.zijiezpi*
+URL-REGEX,-novel.byteimg.*
+URL-REGEX,-sinfonline*.fqnovel.*
 DOMAIN,dig.zjurl.cn
 DOMAIN,qc.bsccdn.net
 DOMAIN,is.snssdk.com
