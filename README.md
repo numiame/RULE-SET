@@ -3,9 +3,14 @@ RULE-SET for ad blocking
 
 ## fqnovel
 
-refer link
+
+- rule-set link
 
 https://raw.githubusercontent.com/numiame/RULE-SET/main/fqnovel.txt
+
+- config link
+
+https://raw.githubusercontent.com/numiame/RULE-SET/main/fqnovel.conf
 
 [DD-AD](https://github.com/afwfv/DD-AD)
 [-](https://github.com/fengmingjuesha/-)
