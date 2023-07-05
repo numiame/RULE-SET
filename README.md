@@ -5,6 +5,8 @@ RULE-SET for ad blocking
 
 refer link
 
+https://raw.githubusercontent.com/numiame/RULE-SET/main/README.md
+
 [DD-AD](https://github.com/afwfv/DD-AD)
 [-](https://github.com/fengmingjuesha/-)
 
