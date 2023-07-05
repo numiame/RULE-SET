@@ -8,6 +8,13 @@ URL-REGEX,lf.fqnovel.*
 URL-REGEX,ad-sign.*
 URL-REGEX,fqnovelvod.*
 URL-REGEX,mgsdk-sign.*
+DOMAIN-SUFFIX,snssdk.com
+URL-REGEX,*-normal-lf.zijieapi.com
+URL-REGEX,*-applog-hl.fqnovel.com
+URL-REGEX,*-hl.zijieapi.com
+URL-REGEX,*-bjlgy.zijiezpi.com
+URL-REGEX,*-novel.byteimg.com
+URL-REGEX,*-sinfonline*.fqnovel.com
 DOMAIN,dig.zjurl.cn
 DOMAIN,qc.bsccdn.net
 DOMAIN,is.snssdk.com
