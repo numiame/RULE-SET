@@ -2,6 +2,7 @@ URL-REGEX,zijieapi.*
 URL-REGEX,byteorge.*
 URL-REGEX,bytegoofy.*
 URL-REGEX,bytedance.*
+URL-REGEX,bytegecjo.*
 URL-REGEX,snssdk.*
 URL-REGEX,pangolin-sdk.*
 URL-REGEX,lf.fqnovel.*
