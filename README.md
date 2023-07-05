@@ -5,7 +5,7 @@ RULE-SET for ad blocking
 
 refer link
 
-https://raw.githubusercontent.com/numiame/RULE-SET/main/README.md
+https://raw.githubusercontent.com/numiame/RULE-SET/main/fqnovel.txt
 
 [DD-AD](https://github.com/afwfv/DD-AD)
 [-](https://github.com/fengmingjuesha/-)
