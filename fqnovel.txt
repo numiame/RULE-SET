@@ -10,9 +10,12 @@ URL-REGEX,ad-sign.*
 URL-REGEX,fqnovelvod.*
 URL-REGEX,mgsdk-sign.*
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN,p3-reading-sign.fqnovelpic.com
-DOMAIN,p6-reading-sign.fqnovelpic.com
-DOMAIN,p9-reading-sign.fqnovelpic.com
+DOMAIN,p6-aio.ecombdimg.com
+DOMAIN,p3-aio.ecombdimg.com
+DOMAIN,p9-aio.ecombdimg.com
+# DOMAIN,p3-reading-sign.fqnovelpic.com
+# DOMAIN,p6-reading-sign.fqnovelpic.com
+# DOMAIN,p9-reading-sign.fqnovelpic.com
 DOMAIN,tnc3-bjlgy.zijieapi.com
 DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,tnc11-alisc1.zijieapi.com
