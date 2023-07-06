@@ -9,6 +9,9 @@ URL-REGEX,lf.fqnovel.*
 URL-REGEX,ad-sign.*
 URL-REGEX,fqnovelvod.*
 URL-REGEX,mgsdk-sign.*
+URL-REGEX,enrichgw.10010.*
+URL-REGEX,opencloud.wostore.*
+URL-REGEX,-reading.byteimg.*
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN,p6-aio.ecombdimg.com
 DOMAIN,p3-aio.ecombdimg.com
