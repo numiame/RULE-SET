@@ -12,8 +12,6 @@ URL-REGEX,mgsdk-sign.*
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN,gecko3-hl.zijieapi.com
 DOMAIN,mssdk3-normal-hl.zijieapi.com
-DOMAIN,mssdk6-normal-hl.zijieapi.com
-DOMAIN,mssdk9-normal-hl.zijieapi.com
 DOMAIN,praisewindow-sinfonlineb.ugsdk.cn
 DOMAIN,opencloud.wostore.cn
 DOMAIN,enrichgw.10010.COM
