@@ -36,7 +36,7 @@ DOMAIN,ecom5-normal-hl.ecombdapi.com
 DOMAIN,ec5-core-hl.ecombdapi.com
 DOMAIN,ec3-core-hl.ecombdapi.com
 DOMAIN,p3-novel.byteimg.com
-DOMAIN,api5-normal-hl.fqnovel.com
+# DOMAIN,api5-normal-hl.fqnovel.com
 DOMAIN,log5-applog-hl.fqnovel.com
 DOMAIN,mon11-misc-hl.fqnovel.com
 DOMAIN,frontier100-toutiao-hl.fqnovel.com
@@ -55,7 +55,7 @@ DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,lf3-reading.fqnovelpic.com
 DOMAIN,mon3-misc-hl.fqnovel.com
 DOMAIN,bsync3-normal-hl.zijieapi.com
-DOMAIN,api3-normal-hl.fqnovel.com
+# DOMAIN,api3-normal-hl.fqnovel.com
 DOMAIN,lf3-reading.fqnovelpic.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dig.zjurl.cn
