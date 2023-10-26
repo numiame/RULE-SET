@@ -8,6 +8,14 @@ RULE-SET for ad blocking
 
 https://raw.githubusercontent.com/numiame/RULE-SET/main/fqnovel.txt
 
+- rule-set clash link
+
+https://raw.githubusercontent.com/numiame/RULE-SET/main/fqnovel.yml
+
+- rule-set tiktok link
+
+https://raw.githubusercontent.com/numiame/RULE-SET/main/tiktok.yml
+
 - config link
 
 https://raw.githubusercontent.com/numiame/RULE-SET/main/fqnovel.conf
