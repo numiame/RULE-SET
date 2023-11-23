@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-KEYWORD,zijieapi.*
+  - DOMAIN-KEYWORD,byteorge.*
+  - DOMAIN-KEYWORD,bytegoofy.*
+  - DOMAIN-KEYWORD,bytedance.*
+  - DOMAIN-KEYWORD,bytegecjo.*
+  - DOMAIN-KEYWORD,snssdk.*
+  - DOMAIN-KEYWORD,pangolin-sdk.*
+  - DOMAIN-KEYWORD,lf.fqnovel.*
+  - DOMAIN-KEYWORD,ad-sign.*
+  - DOMAIN-KEYWORD,fqnovelvod.*
+  - DOMAIN-KEYWORD,mgsdk-sign.*
+  - DOMAIN-SUFFIX,snssdk.com
