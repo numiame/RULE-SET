@@ -25,7 +25,7 @@ ecom5-normal-hl.ecombdapi.com
 ec5-core-hl.ecombdapi.com
 ec3-core-hl.ecombdapi.com
 p3-novel.byteimg.com
-# api5-normal-hl.fqnovel.com
+api5-normal-hl.fqnovel.com
 log5-applog-hl.fqnovel.com
 mon11-misc-hl.fqnovel.com
 frontier100-toutiao-hl.fqnovel.com
@@ -45,7 +45,6 @@ lf3-reading.fqnovelpic.com
 mon3-misc-hl.fqnovel.com
 bsync3-normal-hl.zijieapi.com
 # api3-normal-hl.fqnovel.com
-lf3-reading.fqnovelpic.com
 dig.bdurl.net
 dig.zjurl.cn
 qc.bsccdn.net
@@ -97,3 +96,30 @@ lf3-short.bytetos.com
 monsetting.toutiao.com
 v3-novelapp.fqnovelvod.com
 p3-novel-lottery.byteimg.com
+mon.zijieapi.com
+log0-applog-hl.fqnovel.com
+timon.zijieapi.com
+i-hl.snssdk.com
+if-cdn-tos.bytescm.com
+if1-cdn-tos.bytegoofy.com
+ichannel.snssdk.com
+polaris5-normal-hl.zijieapi.com
+polaris-sinfonlineb-hl.zijieapi.com
+p9-novel-sign.byteimg.com
+feedback-c.zijieapi.com
+content-open.douyin.com
+api-access.pangolin-sdk-toutiao1.com
+imapi5-oth-lf.zijieapi.com
+effect.snssdk.com
+pitaya.bytedance.com
+p3-reading-sign.fqnovelpic.com
+tp-pay.snssdk.com
+p6-novel-sign.byteimg.com
+p3-novel-sign.byteimg.com
+webcast5-open-hl.douyin.com
+if-webcast-gr-sourcecdn.bytegecko.com
+api5-normal-sinfonlineb.fqnovel.com
+is-hl.snssdk.com
+p9-reading-sign.fqnovelpic.com
+api.iegadp.qq.com
+mssdk.volces.com
