@@ -1,3 +1,6 @@
+#!url=https://raw.githubusercontent.com/numiame/RULE-SET/refs/heads/main/fqnovel.module
+#!name= fqnovel ads blocker
+#!desc=fqnovel ads blocker
 [Rule]
 DOMAIN,zlink.ugsdk.cn,REJECT
 DOMAIN,mon.toutiaocloud.net,REJECT
