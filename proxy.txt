@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,dukascopy.com
+DOMAIN-SUFFIX,dukascopy.bank
+DOMAIN-SUFFIX,dukascopy.online
