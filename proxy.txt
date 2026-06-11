@@ -1,3 +1,15 @@
 DOMAIN-SUFFIX,dukascopy.com
 DOMAIN-SUFFIX,dukascopy.bank
 DOMAIN-SUFFIX,dukascopy.online
+
+# ZA Bank
+DOMAIN-SUFFIX,api5.futunn.com
+DOMAIN-SUFFIX,ir-sdk.guardease.com
+DOMAIN-SUFFIX,cdn.zaticdn.com
+DOMAIN-SUFFIX,appmon-prd.zajourney.com
+
+# Grok
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+
+
