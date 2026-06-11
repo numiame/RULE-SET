@@ -1,0 +1,17 @@
+[Rule]
+# Dukascopy
+DOMAIN-SUFFIX,dukascopy.com,PROXY
+DOMAIN-SUFFIX,dukascopy.bank,PROXY
+DOMAIN-SUFFIX,dukascopy.online,PROXY
+
+# ZA Bank
+DOMAIN-SUFFIX,api5.futunn.com,PROXY
+DOMAIN-SUFFIX,ir-sdk.guardease.com,PROXY
+DOMAIN-SUFFIX,cdn.zaticdn.com,PROXY
+DOMAIN-SUFFIX,appmon-prd.zajourney.com,PROXY
+
+# Grok
+DOMAIN-SUFFIX,segment.com,PROXY
+DOMAIN-SUFFIX,segment.io,PROXY
+
+
