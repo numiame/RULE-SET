@@ -1,3 +1,7 @@
+#!url=https://raw.githubusercontent.com/numiame/RULE-SET/refs/heads/main/proxy.module
+#!name= self proxy site
+#!desc=proxy site personal
+
 [Rule]
 # Dukascopy
 DOMAIN-SUFFIX,dukascopy.com,PROXY
