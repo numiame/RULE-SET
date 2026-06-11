@@ -2,6 +2,17 @@
 #!name= fqnovel ads blocker
 #!desc=fqnovel ads blocker
 [Rule]
+# Add Manual
+DOMAIN,beta-luna.douyin.com,REJECT
+DOMAIN,p9-dy-sign.byteimg.com,REJECT
+DOMAIN,dispatcher.is.autonavi.com,REJECT
+DOMAIN,p9-dy-sign.byteimg.com,REJECT
+DOMAIN,v5-se-gddgtc-novelapp.fqnovelvod.com,REJECT
+DOMAIN,imapi5-oth-lf.zijieapi.com,REJECT
+
+
+
+
 DOMAIN,zlink.ugsdk.cn,REJECT
 DOMAIN,mon.toutiaocloud.net,REJECT
 DOMAIN,lf-normal-gr-sourcecdn.bytegecko.com,REJECT
