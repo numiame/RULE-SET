@@ -5,7 +5,7 @@
 # Add Manual
 DOMAIN,beta-luna.douyin.com,REJECT
 DOMAIN,p9-dy-sign.byteimg.com,REJECT
-DOMAIN,dispatcher.is.autonavi.com,REJECT
+# DOMAIN,dispatcher.is.autonavi.com,REJECT
 DOMAIN,p9-dy-sign.byteimg.com,REJECT
 DOMAIN,v5-se-gddgtc-novelapp.fqnovelvod.com,REJECT
 DOMAIN,imapi5-oth-lf.zijieapi.com,REJECT
