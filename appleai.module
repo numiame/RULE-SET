@@ -1,0 +1,23 @@
+#!url=https://raw.githubusercontent.com/numiame/RULE-SET/refs/heads/main/appleai.module
+#!name= appleai
+#!desc=appleai
+[Rule]
+
+# 苹果AI相关域名
+DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
+DOMAIN-SUFFIX,smoot.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.akamaized.net,PROXY
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,PROXY
+DOMAIN-SUFFIX,apple-intelligence.apple.com,PROXY
+DOMAIN-SUFFIX,ai.apple.com,PROXY
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+# 其他相关域名
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,api.openai.com,PROXY
+DOMAIN-SUFFIX,cdn.openai.com,PROXY
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,PROXY
+DOMAIN-SUFFIX,cp4.cloudflare.com,PROXY
+ 
