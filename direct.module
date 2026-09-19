@@ -1,0 +1,11 @@
+#!url=https://raw.githubusercontent.com/numiame/RULE-SET/refs/heads/main/direct.module
+#!name= self direct site
+#!desc=proxy direct personal
+
+[Rule]
+# StarRail
+DST-PORT,23301,DIRECT
+DST-PORT,22102,DIRECT
+DST-PORT,22101,DIRECT
+DST-PORT,20501,DIRECT
+DST-PORT,3000,DIRECT
